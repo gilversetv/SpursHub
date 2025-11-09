@@ -1,3 +1,7 @@
+# SpursHub
+The Sports Hub app for DeskThing, now with the San Antonio Spurs!
+## Original Readme below
+
 # DeskThing-SportsHub
 
 The Sports Hub app for DeskThing delivers instant, at-a-glance access to live sports updates, keeping you informed in real time.

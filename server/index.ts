@@ -130,6 +130,7 @@ const setupSettings = async () => {
       { label: 'Phoenix Suns', value: 'PHO' },
       { label: 'Portland Trail Blazers', value: 'POR' },
       { label: 'Sacramento Kings', value: 'SAC' },
+      { label: 'San Antonio Spurs', value: 'SAS' },
       { label: 'Toronto Raptors', value: 'TOR' },
       { label: 'Utah Jazz', value: 'UTH' },
       { label: 'Washington Wizards', value: 'WAS' },
